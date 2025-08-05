@@ -28,7 +28,8 @@
        width: 80%;
        margin: auto;
        margin-top: 70px;
-       border-radius: 15px
+       border-radius: 15px;
+       margin-bottem: 70px;
    }
 
    * {
@@ -97,4 +98,5 @@
 
    tr:last-child td {
        border-bottom: none;
+
    }
